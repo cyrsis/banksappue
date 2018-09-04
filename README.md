@@ -2,6 +2,8 @@
 
 > Bank Apps
 
+## learning how to do line of business app with Vue.js
+
 ## Build Setup
 
 ``` bash
